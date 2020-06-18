@@ -1,2 +1,2 @@
-# ios-style-guide
+# iOS Style Guide
 Code conventions for iOS/Swift
